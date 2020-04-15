@@ -1,7 +1,7 @@
 This is code to create a DDS connection.
 The code is thoroughly tested.
 If the code gives an error, the problem will be the DDS settings.
-Make sure to use the samen Quality of service on all DDS modules.
+Make sure to use the same 'Quality of service' on all DDS modules.
 
 It's a bit tricky to get DDS up and running in python.
 These are the steps i did:
